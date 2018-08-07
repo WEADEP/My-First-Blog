@@ -25,7 +25,7 @@ SECRET_KEY = 'pn7j24ro@ai^%79e_1eimg$s14sm^f5d3rp4^se%@4j)@3jpv!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['retix.pythonanywhere.com']
 
 
 # Application definition
